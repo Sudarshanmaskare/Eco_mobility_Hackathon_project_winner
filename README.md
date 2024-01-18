@@ -1,3 +1,9 @@
+• Developed an Eco Mobility App for Android and iOS platforms using Flutter, integrating Google ML Kit for
+Optical Character Recognition in an autonomous AI-powered ticket information extraction system.
+• Utilized Here Maps Geo Encoding to convert place names into coordinates, and calculated optimal route distances via
+Here Maps Routing API, and ensures ticket uniqueness by hashing and storing ticket images in the Firestore Database
+achieving a 99% uniqueness validation rate. Implemented Firebase for storing user data encompassing Leafcoin details
+and public transport distance traveled in the application.
 # project_envi
 
 A new Flutter project.
